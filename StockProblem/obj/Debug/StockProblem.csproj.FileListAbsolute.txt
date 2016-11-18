@@ -1,0 +1,9 @@
+c:\users\nicholas\documents\visual studio 2015\Projects\StockProblem\StockProblem\bin\Debug\StockProblem.exe.config
+c:\users\nicholas\documents\visual studio 2015\Projects\StockProblem\StockProblem\bin\Debug\StockProblem.exe
+c:\users\nicholas\documents\visual studio 2015\Projects\StockProblem\StockProblem\bin\Debug\StockProblem.pdb
+c:\users\nicholas\documents\visual studio 2015\Projects\StockProblem\StockProblem\obj\Debug\StockProblem.csprojResolveAssemblyReference.cache
+c:\users\nicholas\documents\visual studio 2015\Projects\StockProblem\StockProblem\obj\Debug\StockProblem.Properties.Resources.resources
+c:\users\nicholas\documents\visual studio 2015\Projects\StockProblem\StockProblem\obj\Debug\StockProblem.StockProblem.resources
+c:\users\nicholas\documents\visual studio 2015\Projects\StockProblem\StockProblem\obj\Debug\StockProblem.csproj.GenerateResource.Cache
+c:\users\nicholas\documents\visual studio 2015\Projects\StockProblem\StockProblem\obj\Debug\StockProblem.exe
+c:\users\nicholas\documents\visual studio 2015\Projects\StockProblem\StockProblem\obj\Debug\StockProblem.pdb
